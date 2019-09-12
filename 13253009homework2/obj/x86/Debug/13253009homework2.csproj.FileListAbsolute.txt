@@ -1,0 +1,4 @@
+c:\users\ozan\documents\visual studio 2010\ProjectsC#\13253009homework2\13253009homework2\bin\Debug\13253009homework2.exe
+c:\users\ozan\documents\visual studio 2010\ProjectsC#\13253009homework2\13253009homework2\bin\Debug\13253009homework2.pdb
+c:\users\ozan\documents\visual studio 2010\ProjectsC#\13253009homework2\13253009homework2\obj\x86\Debug\13253009homework2.exe
+c:\users\ozan\documents\visual studio 2010\ProjectsC#\13253009homework2\13253009homework2\obj\x86\Debug\13253009homework2.pdb
